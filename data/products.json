@@ -1,0 +1,11 @@
+[
+  {
+    "id": "periodico_09-11-1989",
+    "name": "Periódico 09/11/1989",
+    "price": 11.50,
+    "image": "/images/periodico_09-11-1989.jpg",
+    "description": "Daily Telegraph del dia de la caida del muro de Berl",
+    "product_url": "http://klausmontelongo.com"
+  },
+  ... 
+]
